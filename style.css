@@ -1,0 +1,22 @@
+.container {
+
+
+    height: 70vh;
+    width: 65%;
+    background-image: url(./images/bg-desktop.svg);
+    background-color: hsl(257, 40%, 49%);
+    margin-top: 8%;
+}
+.card-pic{
+width: 100%;
+
+}
+.rounded-pill{
+    width: 32%;
+    height: 12%;
+    border: none;
+
+}
+
+
+
